@@ -1,0 +1,24 @@
+body{
+  background-color: #495371;
+  text-align: center;
+}
+
+
+h1{
+  font-size: 6rem;
+  color: #65C18C;
+  font-family: 'Lobster',cursive;
+}
+
+h3{
+  display: inline-block;
+  font-size: 3rem;
+  color: #65C18C;
+  font-family: 'Sacramento' , cursive;
+}
+
+.divison{
+  display: inline-block;
+  width: 300px;
+  position: relative;
+}
